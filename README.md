@@ -10,3 +10,6 @@
 
 - [git](https://git-scm.com/downloads).  
   [Pourquoi ? (Pour synchroniser les projets avec Github)](#)
+  
+- [Google Chrome Dev](https://www.google.com/chrome/dev/) ou [Google Chrome Canary](https://www.google.com/chrome/canary/).  
+  [Pourquoi ? (Environnement vierge dédié au développement)](#)
