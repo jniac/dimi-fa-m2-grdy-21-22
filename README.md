@@ -3,10 +3,10 @@
 ## Prérequis 
 ### Logiciels
 - [Visual Studio Code (vscode)](https://code.visualstudio.com/download).  
-  [Pourquoi ?](#)
+  [Pourquoi ? (Pour la programmation)](#)
   
 - [Node.js](https://nodejs.org/en/download/).  
-  [Pourquoi ?](#)
+  [Pourquoi ? (Pour React)](#)
 
 - [git](https://git-scm.com/downloads).  
-  [Pourquoi ?](#)
+  [Pourquoi ? (Pour synchroniser les projets avec Github)](#)
